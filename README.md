@@ -1,6 +1,8 @@
 Portrait-GAN
 ============
 
+![five example image samples](five_samples.png?raw=true "samples taken from model")
+
 Usage:
 
 ```bash
